@@ -1,2 +1,2 @@
 express
-hbs -for rendering html (view engine)
+hbs -for rendering html,helpers,partials (view engine)
